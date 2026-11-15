@@ -1,0 +1,23 @@
+{
+  "brand": "Mi Consultoría",
+  "tagline": "Consultoría tecnológica",
+  "headline": "Soluciones tecnológicas para tu negocio",
+  "description": "Diseñamos e implementamos soluciones adaptadas a tus operaciones.",
+  "theme": "institutional_ink",
+  "email": "contacto@ejemplo.com",
+  "calendar_url": "",
+  "services": [
+    {
+      "title": "Inteligencia artificial",
+      "description": "Implementación práctica"
+    },
+    {
+      "title": "Automatización",
+      "description": "Procesos eficientes"
+    },
+    {
+      "title": "Integraciones",
+      "description": "Sistemas conectados"
+    }
+  ]
+}
